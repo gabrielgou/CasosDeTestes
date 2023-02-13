@@ -37,7 +37,7 @@ public class VIsualizarVacinas {
 		resp.clear();
 	}
 
-	@Test (expected = ArithmeticException.class)
+	@Test
 	public void TestCase6_1(){
 		String deOnde ="Pernambuco";
 		String paraOnde="Acre";
